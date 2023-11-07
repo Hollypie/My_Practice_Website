@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+}
+body {
+    background-color: white;
+    font-family: courier;
+    }
+    
+h1 {
+    text-align: center;    
+    color: rgb(140, 179, 208);
+    font-family: Courier;
+    padding: 15px;
+    }
+
+p {
+    color: black;
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: rgb(113, 112, 112);
+    padding: 0px;
+   margin: 0;
+   overflow: hidden;
+
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover {
+    background-color: rgb(44, 44, 44);
+}
+.navbar li {
+    float: left;
+}
+
+div {
+    font-family: courier;
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: 300px;
+}
